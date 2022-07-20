@@ -24,3 +24,6 @@ pip install craft-text-detector
 ```console
 streamlit run main.py
 ```
+
+### Author of CRAFT: Character-Region Awareness For Text detection
+Fatih C. Akyon - https://github.com/fcakyon
