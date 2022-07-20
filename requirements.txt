@@ -1,7 +1,6 @@
 craft-text-detector==0.4.3
 gdown==4.5.1
 numpy
-opencv-python
 pandas
 Pillow==9.2.0
 streamlit==1.11.0
