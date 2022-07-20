@@ -1,21 +1,13 @@
-# CRAFT: Character-Region Awareness For Text detection
+# CRAFT: Character-Region Awareness For Text detection with Streamlit
 
-<p align="center">
-<a href="https://pepy.tech/project/craft-text-detector"><img src="https://pepy.tech/badge/craft-text-detector" alt="downloads"></a>
-<a href="https://pypi.org/project/craft-text-detector"><img src="https://img.shields.io/pypi/pyversions/craft-text-detector" alt="downloads"></a>
-<br>
-<a href="https://github.com/AhmetEnesYalcinkaya/Text_Detector_Streamlit/blob/main/predicted.png"></a>
-<a href="https://badge.fury.io/py/craft-text-detector"><img src="[https://badge.fury.io/py/craft-text-detector.svg](https://github.com/AhmetEnesYalcinkaya/Text_Detector_Streamlit/blob/main/predicted.png)" alt="PyPI version" height="20"></a>
-<a href="https://github.com/fcakyon/craft-text-detector/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/pypi/l/craft-text-detector"></a>
-</p>
 
-Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector | [Paper](https://arxiv.org/abs/1904.01941) |
 
 ## Overview
 
 PyTorch implementation for CRAFT text detector that effectively detect text area by exploring each character region and affinity between characters. The bounding box of texts are obtained by simply finding minimum bounding rectangles on binary map after thresholding character region and affinity scores.
 
-<img width="1000" alt="teaser" src="./figures/craft_example.gif">
+<img width="300" alt="teaser" src="https://github.com/AhmetEnesYalcinkaya/Text_Detector_Streamlit/blob/main/figures/bill.jpg">
+<img width="300" alt="teaser1" src="https://github.com/AhmetEnesYalcinkaya/Text_Detector_Streamlit/blob/main/predicted.png">
 
 ## Getting started
 
