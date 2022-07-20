@@ -4,7 +4,7 @@
 <a href="https://pepy.tech/project/craft-text-detector"><img src="https://pepy.tech/badge/craft-text-detector" alt="downloads"></a>
 <a href="https://pypi.org/project/craft-text-detector"><img src="https://img.shields.io/pypi/pyversions/craft-text-detector" alt="downloads"></a>
 <br>
-<a href="https://github.com/fcakyon/craft-text-detector/actions"><img alt="Build status" src="https://github.com/fcakyon/craft-text-detector/actions/workflows/ci.yml/badge.svg"></a>
+<a href="https://github.com/AhmetEnesYalcinkaya/Text_Detector_Streamlit/blob/main/predicted.png"></a>
 <a href="https://badge.fury.io/py/craft-text-detector"><img src="https://badge.fury.io/py/craft-text-detector.svg" alt="PyPI version" height="20"></a>
 <a href="https://github.com/fcakyon/craft-text-detector/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/pypi/l/craft-text-detector"></a>
 </p>
