@@ -1,6 +1,6 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/example-app-bug-report/main)
 
-# 🔥 CRAFT: Character-Region Awareness For Text detection with Streamlit 
+# 🔥[CRAFT: Character-Region Awareness For Text detection with Streamlit](https://ahmetenesyalcinkaya-text-detector-streamlit-main-bx1qcu.streamlitapp.com/)
 
 ## Overview
 
