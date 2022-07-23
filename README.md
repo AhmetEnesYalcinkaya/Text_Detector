@@ -25,4 +25,5 @@ pip install craft-text-detector
 streamlit run main.py
 ```
 
-[CRAFT libraries: Character-Region Awareness For Text detection] (https://pypi.org/project/craft-text-detector/0.4.3/)
+[CRAFT libraries: Character-Region Awareness For Text detection](https://pypi.org/project/craft-text-detector/0.4.3/)
+
